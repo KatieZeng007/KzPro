@@ -1,0 +1,2 @@
+#基础了解
+和用户相关的自动化配置类在 UserDetailsServiceAutoConfiguration,该类的getOrDeducePassword默认生成密码的位置

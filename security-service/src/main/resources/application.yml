@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: security-service
+  #########security的配置##################
+  #默认用户名/密码
+  security:
+    user:
+      name: kz
+      password: 123
+server:
+  port: 8001
+

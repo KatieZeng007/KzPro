@@ -1,0 +1,9 @@
+<trim prefix="AND (" suffix=")" prefixOverrides="OR">
+    <if test="condition.isYizhidu != null">
+        OR b.is_yizhidu = 1
+    </if>
+    <if test="condition.isWeihua != null">
+        OR b.is_weihua = 1
+    </if>
+    ...
+</trim>
