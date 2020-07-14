@@ -14,3 +14,5 @@ enable-auto-commit: 是否自动提交
 auto-commit-interval: 100 如果'enable.auto.commit'为true，则消费者偏移自动提交给Kafka的频率（以毫秒为单位），默认值为5000
 key-serializer: org.apache.kafka.common.serialization.StringDeserializer 密钥的反序列化器类
 value-serializer: org.apache.kafka.common.serialization.StringDeserializer 值的序列化类
+
+dev分支
