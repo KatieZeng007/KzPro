@@ -19,7 +19,7 @@
 		<springboot.xxl-job>2.2.0</springboot.xxl-job>
 		<springboot.swagger2>2.7.0</springboot.swagger2>
 		<springboot.easyExcel>2.2.2</springboot.easyExcel>
-		<springboot.gson>2.8.2</springboot.gson>
+		<springboot.gson>2.8.9</springboot.gson>
 		<springboot.jedis>3.3.0</springboot.jedis>
 		<springboot.itext>5.5.13.1</springboot.itext>
 		<springboot.itext.asian>5.2.0</springboot.itext.asian>
