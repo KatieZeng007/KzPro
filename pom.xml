@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<springboot.xxl-job>2.2.0</springboot.xxl-job>
+		<springboot.xxl-job>2.3.1</springboot.xxl-job>
 		<springboot.swagger2>2.7.0</springboot.swagger2>
 		<springboot.easyExcel>2.2.2</springboot.easyExcel>
 		<springboot.gson>2.8.2</springboot.gson>
